@@ -1,0 +1,5 @@
+Theme name:    SK-Theme01
+Description:   Theme for Anchor CMS, currently only for Posts!
+Author name:   Basti SK
+Author site:   http://basti-sk.com
+License:       http://creativecommons.org/licenses/by/4.0/
